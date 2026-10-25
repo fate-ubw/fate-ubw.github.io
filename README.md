@@ -32,7 +32,7 @@ Change `draft` to `false` when ready to show the article. Categories are generat
 
 ## Build
 
-`npm run build` generates `dist/`, which can be hosted on GitHub Pages. All local links support deployment under a repository subpath. No remote repository or deployment is configured yet.
+`npm run build` generates `dist/`, which can be hosted on GitHub Pages. All local links support deployment under a repository subpath. The site is deployed to https://fate-ubw.github.io/ through `.github/workflows/pages.yml`. Push to `main` to publish updates.
 
 The `research/` folder contains private collection notes and is excluded from Git and the generated site.
 
