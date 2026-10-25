@@ -1,0 +1,116 @@
+{
+  "email": "zhangxuanwang@smail.nju.edu.cn",
+  "publications": [
+    {
+      "id": "webnavigator",
+      "title": "WebNavigator: Global Web Navigation via Interaction Graph Retrieval",
+      "authors": [
+        "Xuanwang Zhang",
+        "Yuteng Han",
+        "Jinnan Qi",
+        "Xinyu Liu",
+        "Kunze Meng",
+        "Mulong Xie",
+        "Zhen Wu",
+        "Xinyu Dai"
+      ],
+      "venue": "NeurIPS 2026",
+      "paper": "https://arxiv.org/abs/2603.20366",
+      "code": "https://github.com/fate-ubw/webNavigator",
+      "figureAlt": "WebNavigator framework: offline interaction graph construction and online graph-guided navigation.",
+      "presentation": "Poster",
+      "conferenceLogo": "neurips.svg"
+    },
+    {
+      "id": "orchestrator",
+      "title": "Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems",
+      "authors": [
+        "Junze Zhu",
+        "Weihao Chen",
+        "Xuanwang Zhang",
+        "Zhen Wu",
+        "Xinyu Dai"
+      ],
+      "venue": "ICML 2026",
+      "paper": "https://proceedings.mlr.press/v306/zhu26g.html",
+      "figureAlt": "Inverse workflow generation pipeline for process-verifiable multi-agent evaluation.",
+      "presentation": "Poster",
+      "conferenceLogo": "icml.svg",
+      "code": "https://github.com/NJUNLP/orchestrator_entropy"
+    },
+    {
+      "id": "trustjudge",
+      "title": "TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them",
+      "authors": [
+        "Yidong Wang*",
+        "Yunze Song*",
+        "Tingyuan Zhu",
+        "Xuanwang Zhang",
+        "Zhuohao Yu",
+        "Hao Chen",
+        "Chiyu Song",
+        "Qiufeng Wang",
+        "Zhen Wu",
+        "Xinyu Dai",
+        "Yue Zhang",
+        "Cunxiang Wang",
+        "Wei Ye",
+        "Shikun Zhang"
+      ],
+      "venue": "ICLR 2026",
+      "paper": "https://arxiv.org/abs/2509.21117",
+      "code": "https://github.com/TrustJudge/TrustJudge",
+      "figureAlt": "TrustJudge analysis of scoring entropy and consistency in model-based evaluation.",
+      "presentation": "Poster",
+      "conferenceLogo": "iclr.svg"
+    },
+    {
+      "id": "emorag",
+      "title": "EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations",
+      "authors": [
+        "Xinyun Zhou",
+        "Xinfeng Li",
+        "Yinan Peng",
+        "Ming Xu",
+        "Xuanwang Zhang",
+        "Miao Yu",
+        "Yidong Wang",
+        "Xiaojun Jia",
+        "Kun Wang",
+        "Qingsong Wen",
+        "XiaoFeng Wang",
+        "Wei Dong"
+      ],
+      "venue": "KDD 2026",
+      "paper": "https://arxiv.org/abs/2512.01335",
+      "figureAlt": "EmoRAG overview showing symbolic perturbations in retrieval-augmented generation.",
+      "presentation": "Oral",
+      "conferenceLogo": "kdd.png"
+    },
+    {
+      "id": "raglab",
+      "title": "RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation",
+      "authors": [
+        "Xuanwang Zhang*",
+        "Yunze Song*",
+        "Yidong Wang",
+        "Shuyun Tang",
+        "Xinfeng Li",
+        "Zhengran Zeng",
+        "Zhen Wu",
+        "Wei Ye",
+        "Wenyuan Xu",
+        "Yue Zhang",
+        "Xinyu Dai",
+        "Shikun Zhang",
+        "Qingsong Wen"
+      ],
+      "venue": "EMNLP System Demonstrations 2024",
+      "paper": "https://aclanthology.org/2024.emnlp-demo.43/",
+      "code": "https://github.com/fate-ubw/RAGLAB",
+      "figureAlt": "Architecture and components of the RAGLAB framework.",
+      "presentation": "Oral",
+      "conferenceLogo": "emnlp.png"
+    }
+  ]
+}

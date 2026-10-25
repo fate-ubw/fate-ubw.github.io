@@ -1,0 +1,1 @@
+{"name":"xuanwang-homepage","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","dev":"npm run build && python3 -m http.server 4321 --bind 127.0.0.1 --directory dist"},"dependencies":{"marked":"^16.0.0"}}
